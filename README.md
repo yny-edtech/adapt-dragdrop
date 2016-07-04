@@ -1,5 +1,10 @@
+
+**Michel - this version of drag and drop seems to work much better**
+
 ##Drag and Drop Adapt Component
+
 ##Installation
+
 
 The aim is to simply simply install the componennt in the same way you would any other. 
 
