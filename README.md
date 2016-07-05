@@ -3,6 +3,10 @@
 
 ##Drag and Drop Adapt Component
 
+Example: 
+![dragndropscreenshot](https://github.com/yny-edtech/adapt-dragdrop/blob/master/screenshot_547.png)
+
+
 ##Installation
 
 
